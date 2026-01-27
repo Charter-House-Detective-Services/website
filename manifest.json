@@ -1,6 +1,6 @@
 {
-    "name": "charterhouse_website",
-    "short_name": "charterhouse_website",
+    "name": "itc_performance_tracker",
+    "short_name": "itc_performance_tracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
